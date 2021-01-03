@@ -42,7 +42,8 @@
   * React stack navigation 
   * React-native modal
   * Webview
-
+  
+- Source is pulled API from 'https://jobs.github.com/api'
 - In introduction page user can select a programming language
 - Jobs Page filtered jobs in accordance with the selected language are listed as cards.
 - Once the user selects a job, a model pops up showing the details of the job in HTML view. 
